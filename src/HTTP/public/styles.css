@@ -1,0 +1,16 @@
+html {
+  background: black;
+}
+body {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: fantasy;
+  color: white;
+
+}
+
+body > img {
+  border-radius: 30px;
+}
